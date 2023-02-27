@@ -1,0 +1,16 @@
+.header__button {
+  background-color: white;
+  color: #F7941E;
+  margin-right: 34px;
+  border: 1px #F7941E solid;
+  border-radius: 5px;
+  width: 150px;
+  height: 43.5px;
+  line-height: 22px;
+  font-size: 18px;
+}
+
+.header__button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}

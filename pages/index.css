@@ -1,0 +1,38 @@
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/menu/__links/menu__links.css);
+
+@import url(../blocks/hero-side/hero-side.css);
+@import url(../blocks/hero-side/__image/hero-side__image.css);
+@import url(../blocks/hero-side/__text/hero-side__text.css);
+@import url(../blocks/hero-side/__title/hero-side__title.css);
+@import url(../blocks/hero-side/__subtitle/hero-side__subtitle.css);
+@import url(../blocks/hero-side/__button/hero-side__button.css);
+
+@import url(../blocks/future-split/future-split.css);
+@import url(../blocks/future-split/__image/future-split__image.css);
+@import url(../blocks/future-split/__text/future-split__text.css);
+@import url(../blocks/future-split/__title/future-split__title.css);
+@import url(../blocks/future-split/__subtitle/future-split__subtitle.css);
+@import url(../blocks/future-split/__button/future-split__button.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
+@import url(../blocks/occasion/occasion.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__link/cards__link.css);
+
+
+
+
+
+
+@import url(../blocks/header/header.css);

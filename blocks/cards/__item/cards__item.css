@@ -1,0 +1,10 @@
+.cards__item {
+  width: 270px;
+  height: 436px;
+  background-color: #fafafa;
+}
+
+.cards__item:first-of-type {
+  background-color: white;
+  box-shadow: 15px 15px 15px rgb(232, 231, 231);
+}
