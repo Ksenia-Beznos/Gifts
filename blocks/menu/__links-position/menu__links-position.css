@@ -1,0 +1,9 @@
+.menu__links-position {
+  margin: 0 auto;
+  width: 614px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+}

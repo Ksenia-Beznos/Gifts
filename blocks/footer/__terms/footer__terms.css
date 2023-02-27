@@ -1,0 +1,8 @@
+.footer__terms {
+  text-decoration: none;
+  color: black;
+}
+
+.footer__terms:hover {
+  color: #f7941e;
+}

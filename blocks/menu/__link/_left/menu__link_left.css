@@ -1,0 +1,5 @@
+.menu__link_left {
+  display: flex;
+  justify-content: space-between;
+  min-width: 159px;
+}

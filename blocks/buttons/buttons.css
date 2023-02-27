@@ -1,0 +1,8 @@
+.buttons {
+  width: 416px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 96px;
+  right: 235px;
+}

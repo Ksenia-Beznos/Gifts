@@ -1,0 +1,7 @@
+.footer__info {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 72.8px auto 0;
+  display: flex;
+  justify-content: center;
+}

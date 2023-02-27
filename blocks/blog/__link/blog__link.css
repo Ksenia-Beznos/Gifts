@@ -1,0 +1,13 @@
+.blog__link {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  position: absolute;
+  left: 478px;
+  bottom: 49px;
+}
+
+.blog__link:hover {
+  color: #f7941e;
+}

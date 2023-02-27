@@ -1,0 +1,10 @@
+.blog__author {
+  margin: 0;
+  min-width: 84px;
+  font-size: 14px;
+  line-height: 20px;
+  color: white;
+  position: absolute;
+  top: 63px;
+  left: 478px;
+}

@@ -1,0 +1,10 @@
+.blog__blockquote {
+  margin: 0;
+  width: 492px;
+  font-size: 48px;
+  line-height: 58px;
+  color: white;
+  position: absolute;
+  top: 110px;
+  left: 478px;
+}
